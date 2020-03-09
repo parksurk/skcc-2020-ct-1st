@@ -130,3 +130,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# App, Exe
+*.app
+*.exe
+
+# Train/Test Dataset
+predict_input.csv
+train.csv
